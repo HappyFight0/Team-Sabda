@@ -1,0 +1,17 @@
+{
+    "recipes":[
+        {
+            "id":1,
+            "title":"apple pie",
+            "ingredients":[
+                    "apple, cinamon, flour, sugar"],
+            "instructions":["just mix and and bake for some time"]
+        },
+        {
+            "id":2,
+            "title":"milkeshake",
+            "ingredients":["milk, ice and banana"],
+            "instructions":["mix and shake for couple minutes"]
+        }
+    ]
+}
